@@ -1,7 +1,7 @@
 # Site settings
 title: HackSourced
 header-img: img/home-bg.jpg
-email: hackstyr@gmail.com
+email: hacksourced@gmail.com
 copyright_name: HackSourced
 description: "Source for all your technology-related information!"
 baseurl: ""
@@ -9,7 +9,7 @@ url: "http://hacksourced.github.io"
 twitter_username:
 github_username:  hacksourced
 facebook_username:
-email_username:  hackstyr@gmail.com
+email_username:  hacksourced@gmail.com
 
 # Build settings
 markdown: kramdown
