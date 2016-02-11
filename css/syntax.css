@@ -82,3 +82,9 @@
 .highlight .vi { color: teal; }
 .highlight .il { color: #009999; }
 .highlight .gc { color: #999; background-color: #EAF2F5; }
+
+#starfield {
+  height: inherit;
+  width: inherit;
+  opacity: 60%
+}
