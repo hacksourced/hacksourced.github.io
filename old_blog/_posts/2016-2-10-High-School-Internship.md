@@ -1,9 +1,0 @@
----
-layout: post
-title: How to Get a High School Internship
----
-
-# Standard vs. Standout
-I want to standout!
-# Resume
-# Cover Letter & Essay Questions
