@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
+<link href="http://hacksourced.github.io/feed.xml" rel="self" type="application/atom+xml" />
+<link href="http://hacksourced.github.io/" rel="alternate" type="text/html" />
+<updated>2016-02-16T23:02:08-05:00</updated>
+<id>http://hacksourced.github.io/</id>
+<subtitle>Source for all your technology-related information!</subtitle>
+</feed>
